@@ -1,6 +1,5 @@
 #include "graphics.hpp"
 #include "widgets.hpp"
-#include <functional>
 #include "button.hpp"
 
 using namespace std;
